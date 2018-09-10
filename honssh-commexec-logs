@@ -1,0 +1,51 @@
+20180817_144535_180622 - [SSH  ] Login Successful: kitti:goodboy
+20180817_144535_180622 - [SSH  ] Login was spoofed
+20180817_144537_745143 - [TERM0] Opened Channel
+20180817_144543_310031 - [TERM0] Command Executed: exit
+20180817_144543_732954 - [TERM0] Closed Channel
+20180817_144543_754111 - [SSH  ] Lost Connection with 119.158.111.238
+20180822_230412_623122 - [TERM256] Command Executed: clear
+20180822_230416_012666 - [TERM256] Command Executed: su
+20180822_230427_934418 - [TERM256] Command Executed: Dr.AmIr@321
+20180822_230431_487214 - [TERM256] Command Executed: cd ..
+20180822_230432_099580 - [TERM256] Command Executed: cd ..
+20180822_230432_580461 - [TERM256] Command Executed: cd ..
+20180822_230511_528127 - [TERM256] Command Executed: apt-getpurge apache2
+20180822_230531_098593 - [TERM256] Command Executed: apt-get purge mysql
+20180822_230549_854873 - [TERM256] Command Executed: cd /rooetc/            lib6\nt/        .ptmx           srv/            vmlinuz.old
+20180822_230550_388705 - [TERM256] Command Executed: ls
+20180822_230609_725127 - [TERM256] Command Executed: sudo apt-get install libxml-parser-perl libpath-class-perl perl-modules screen rsync sudo e2fsprogs unzip subversion libarchive-extract-perl pure-ftpd libarchive-zip-perl libc6 libgcc1 git curl
+20180822_230618_690812 - [TERM256] Command Executed: sudo dpkg -i "ogp-agent-latest.deb"
+20180822_230637_919574 - [TERM256] Command Executed: sudo cat /root/ogp_user_password
+20180822_230647_196289 - [TERM256] Command Executed: sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath
+20180822_230729_142741 - [TERM256] Command Executed: sudo apt-get purge curl
+20180822_230731_533597 - [TERM256] Command Executed: Y
+20180822_230800_347267 - [TERM256] Command Executed: sudo apt-get purge curl
+20180822_230824_695146 - [TERM256] Command Executed: sudo apt-get purge git
+20180822_230826_955698 - [TERM256] Command Executed: Y
+20180822_230848_995017 - [TERM256] Command Executed: ^C
+20180822_230858_902921 - [TERM256] Command Executed: sudo apt-get purge libapache2-mod-php7.0
+20180822_230900_737782 - [TERM256] Command Executed: Y
+20180822_230930_801266 - [TERM256] Command Executed: ^C
+20180822_230937_355785 - [TERM256] Command Executed: sudo apt-get purge mysql-server
+20180822_230939_646413 - [TERM256] Command Executed: Y
+20180822_231002_629866 - [TERM256] Command Executed: sudo apt-get purge phpmyadmin
+20180822_231004_605003 - [TERM256] Command Executed: Y
+20180822_231051_094524 - [TERM256] Command Executed: sudo apt-get purge php
+20180822_231100_046339 - [TERM256] Command Executed: sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath
+20180822_231110_692474 - [TERM256] Command Executed: hp7.0
+20180822_231112_572637 - [TERM256] Command Executed: Y
+20180822_231144_103937 - [TERM256] Command Executed: ^C
+20180822_231144_362794 - [TERM256] Command Executed: ^C
+20180822_231158_785353 - [TERM256] Command Executed: sudo apt-get purge php7.0-curl
+20180822_231200_694666 - [TERM256] Command Executed: Y
+20180822_231228_285921 - [TERM256] Command Executed: sudo apt-get purge wazuh-manager
+20180822_231230_180243 - [TERM256] Command Executed: Y
+20180822_231308_247924 - [TERM256] Command Executed: sudo apt-get remove pgp7.0-gd
+20180822_231313_707457 - [TERM256] Command Executed: sudo apt-get remove pgp7.0-mysql
+20180822_231319_481445 - [TERM256] Command Executed: sudo apt-get remove pgp7.0-xmlrpc
+20180822_231323_964336 - [TERM256] Command Executed: sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath
+20180822_231327_636437 - [TERM256] Command Executed: exit
+20180822_231328_966737 - [TERM256] Command Executed: exit
+20180822_231329_166977 - [TERM256] Closed Channel
+20180822_231329_181722 - [SSH  ] Lost Connection with 103.255.4.97
