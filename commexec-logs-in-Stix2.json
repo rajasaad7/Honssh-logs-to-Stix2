@@ -1,0 +1,667 @@
+{
+    "type": "bundle",
+    "id": "bundle--aac943e4-d230-449d-9ee8-a689e960c0e5",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "observed-data",
+            "id": "observed-data--b7a68875-18df-4d8a-920c-a0367a250243",
+            "created": "2018-09-09T22:01:28.787Z",
+            "modified": "2018-09-09T22:01:28.787Z",
+            "first_observed": "2018-08-17T14:45:43.310031Z",
+            "last_observed": "2018-08-17T14:45:43.310031Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " exit\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--85a979f5-0c2a-4fe9-9688-4938bbbacd0e",
+            "created": "2018-09-09T22:01:28.788Z",
+            "modified": "2018-09-09T22:01:28.788Z",
+            "first_observed": "2018-08-22T23:04:12.623122Z",
+            "last_observed": "2018-08-22T23:04:12.623122Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " clear\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--0baaa4a9-9610-405c-b1a7-0fcda7b8db3f",
+            "created": "2018-09-09T22:01:28.788Z",
+            "modified": "2018-09-09T22:01:28.788Z",
+            "first_observed": "2018-08-22T23:04:16.012666Z",
+            "last_observed": "2018-08-22T23:04:16.012666Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " su\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--821d4b9c-8a0f-4927-989b-c5eebe63f6e0",
+            "created": "2018-09-09T22:01:28.789Z",
+            "modified": "2018-09-09T22:01:28.789Z",
+            "first_observed": "2018-08-22T23:04:27.934418Z",
+            "last_observed": "2018-08-22T23:04:27.934418Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Dr.AmIr@321\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--bc668dc3-48ea-4280-ba63-ea631439b0ab",
+            "created": "2018-09-09T22:01:28.789Z",
+            "modified": "2018-09-09T22:01:28.789Z",
+            "first_observed": "2018-08-22T23:04:31.487214Z",
+            "last_observed": "2018-08-22T23:04:31.487214Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " cd ..\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--a569d751-250d-47fc-9468-2bff011fd37f",
+            "created": "2018-09-09T22:01:28.790Z",
+            "modified": "2018-09-09T22:01:28.790Z",
+            "first_observed": "2018-08-22T23:04:32.09958Z",
+            "last_observed": "2018-08-22T23:04:32.09958Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " cd ..\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--f9031d72-4a29-4ef2-803f-840348327397",
+            "created": "2018-09-09T22:01:28.791Z",
+            "modified": "2018-09-09T22:01:28.791Z",
+            "first_observed": "2018-08-22T23:04:32.580461Z",
+            "last_observed": "2018-08-22T23:04:32.580461Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " cd ..\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--a24c05da-5d04-4549-85d8-69022e14e038",
+            "created": "2018-09-09T22:01:28.791Z",
+            "modified": "2018-09-09T22:01:28.791Z",
+            "first_observed": "2018-08-22T23:05:11.528127Z",
+            "last_observed": "2018-08-22T23:05:11.528127Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " apt-getpurge apache2\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--35f75ee0-585f-452c-9c3d-7c94c042d5fe",
+            "created": "2018-09-09T22:01:28.792Z",
+            "modified": "2018-09-09T22:01:28.792Z",
+            "first_observed": "2018-08-22T23:05:31.098593Z",
+            "last_observed": "2018-08-22T23:05:31.098593Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " apt-get purge mysql\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--5dc5ccf6-9823-4ed7-b7d4-34ed0c341711",
+            "created": "2018-09-09T22:01:28.792Z",
+            "modified": "2018-09-09T22:01:28.792Z",
+            "first_observed": "2018-08-22T23:05:49.854873Z",
+            "last_observed": "2018-08-22T23:05:49.854873Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " cd /rooetc/            lib6\\nt/        .ptmx           srv/            vmlinuz.old\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--bdf9c028-ca16-4258-a8a3-73a1ec43d4e5",
+            "created": "2018-09-09T22:01:28.793Z",
+            "modified": "2018-09-09T22:01:28.793Z",
+            "first_observed": "2018-08-22T23:05:50.388705Z",
+            "last_observed": "2018-08-22T23:05:50.388705Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " ls\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--c3f08b18-d783-4221-bd0f-f6496d0b3812",
+            "created": "2018-09-09T22:01:28.793Z",
+            "modified": "2018-09-09T22:01:28.793Z",
+            "first_observed": "2018-08-22T23:06:09.725127Z",
+            "last_observed": "2018-08-22T23:06:09.725127Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get install libxml-parser-perl libpath-class-perl perl-modules screen rsync sudo e2fsprogs unzip subversion libarchive-extract-perl pure-ftpd libarchive-zip-perl libc6 libgcc1 git curl\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--7366745e-94c5-4a17-9887-186f9da182ae",
+            "created": "2018-09-09T22:01:28.794Z",
+            "modified": "2018-09-09T22:01:28.794Z",
+            "first_observed": "2018-08-22T23:06:18.690812Z",
+            "last_observed": "2018-08-22T23:06:18.690812Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo dpkg -i \"ogp-agent-latest.deb\"\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--39b07d1f-a6aa-4e5b-ae21-cdf963596a3d",
+            "created": "2018-09-09T22:01:28.795Z",
+            "modified": "2018-09-09T22:01:28.795Z",
+            "first_observed": "2018-08-22T23:06:37.919574Z",
+            "last_observed": "2018-08-22T23:06:37.919574Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo cat /root/ogp_user_password\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--64291d7d-60e6-4c72-bdd5-1abb5308881c",
+            "created": "2018-09-09T22:01:28.795Z",
+            "modified": "2018-09-09T22:01:28.795Z",
+            "first_observed": "2018-08-22T23:06:47.196289Z",
+            "last_observed": "2018-08-22T23:06:47.196289Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--e0b034ca-3320-40fe-880a-64985d6991f4",
+            "created": "2018-09-09T22:01:28.796Z",
+            "modified": "2018-09-09T22:01:28.796Z",
+            "first_observed": "2018-08-22T23:07:29.142741Z",
+            "last_observed": "2018-08-22T23:07:29.142741Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge curl\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--aac95918-824a-4d86-9247-e2d9a85c61b7",
+            "created": "2018-09-09T22:01:28.796Z",
+            "modified": "2018-09-09T22:01:28.796Z",
+            "first_observed": "2018-08-22T23:07:31.533597Z",
+            "last_observed": "2018-08-22T23:07:31.533597Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--c7825f87-517b-4823-923d-0ce651aff408",
+            "created": "2018-09-09T22:01:28.797Z",
+            "modified": "2018-09-09T22:01:28.797Z",
+            "first_observed": "2018-08-22T23:08:00.347267Z",
+            "last_observed": "2018-08-22T23:08:00.347267Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge curl\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--f6453d25-240b-4490-8098-cdc701ace077",
+            "created": "2018-09-09T22:01:28.797Z",
+            "modified": "2018-09-09T22:01:28.797Z",
+            "first_observed": "2018-08-22T23:08:24.695146Z",
+            "last_observed": "2018-08-22T23:08:24.695146Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge git\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--3b222914-c5ee-417f-9221-0f99d9483ab8",
+            "created": "2018-09-09T22:01:28.798Z",
+            "modified": "2018-09-09T22:01:28.798Z",
+            "first_observed": "2018-08-22T23:08:26.955698Z",
+            "last_observed": "2018-08-22T23:08:26.955698Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--dda15e45-0e8f-4fd6-8abd-6b2a5d1ffbf6",
+            "created": "2018-09-09T22:01:28.798Z",
+            "modified": "2018-09-09T22:01:28.798Z",
+            "first_observed": "2018-08-22T23:08:48.995017Z",
+            "last_observed": "2018-08-22T23:08:48.995017Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " ^C\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--5aaf952f-48c2-4acb-9f59-df5956d50ce3",
+            "created": "2018-09-09T22:01:28.799Z",
+            "modified": "2018-09-09T22:01:28.799Z",
+            "first_observed": "2018-08-22T23:08:58.902921Z",
+            "last_observed": "2018-08-22T23:08:58.902921Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge libapache2-mod-php7.0\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--5a9d0fc0-1279-4d7d-a39e-1a1066887ee7",
+            "created": "2018-09-09T22:01:28.799Z",
+            "modified": "2018-09-09T22:01:28.799Z",
+            "first_observed": "2018-08-22T23:09:00.737782Z",
+            "last_observed": "2018-08-22T23:09:00.737782Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--046069b6-836a-452f-95d9-978f45789a1c",
+            "created": "2018-09-09T22:01:28.800Z",
+            "modified": "2018-09-09T22:01:28.800Z",
+            "first_observed": "2018-08-22T23:09:30.801266Z",
+            "last_observed": "2018-08-22T23:09:30.801266Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " ^C\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--3f3c2a72-172c-49ea-ae25-0e493690c0c6",
+            "created": "2018-09-09T22:01:28.800Z",
+            "modified": "2018-09-09T22:01:28.800Z",
+            "first_observed": "2018-08-22T23:09:37.355785Z",
+            "last_observed": "2018-08-22T23:09:37.355785Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge mysql-server\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--c276ffdf-0791-4d06-8ed8-7eb335b53b5c",
+            "created": "2018-09-09T22:01:28.801Z",
+            "modified": "2018-09-09T22:01:28.801Z",
+            "first_observed": "2018-08-22T23:09:39.646413Z",
+            "last_observed": "2018-08-22T23:09:39.646413Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--904dc3d8-565d-4539-9f99-cf946382b88c",
+            "created": "2018-09-09T22:01:28.801Z",
+            "modified": "2018-09-09T22:01:28.801Z",
+            "first_observed": "2018-08-22T23:10:02.629866Z",
+            "last_observed": "2018-08-22T23:10:02.629866Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge phpmyadmin\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--bfe1d990-3ee7-463a-bb36-ea6984b843b9",
+            "created": "2018-09-09T22:01:28.802Z",
+            "modified": "2018-09-09T22:01:28.802Z",
+            "first_observed": "2018-08-22T23:10:04.605003Z",
+            "last_observed": "2018-08-22T23:10:04.605003Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--de537933-21e9-4bc0-a9b8-aeaa1e5ced6a",
+            "created": "2018-09-09T22:01:28.803Z",
+            "modified": "2018-09-09T22:01:28.803Z",
+            "first_observed": "2018-08-22T23:10:51.094524Z",
+            "last_observed": "2018-08-22T23:10:51.094524Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge php\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--5c593d89-5e72-4c2d-a3f6-6290f22b61b4",
+            "created": "2018-09-09T22:01:28.803Z",
+            "modified": "2018-09-09T22:01:28.803Z",
+            "first_observed": "2018-08-22T23:11:00.046339Z",
+            "last_observed": "2018-08-22T23:11:00.046339Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--f4a32b68-1f2d-4f9e-b01a-89ba769e7ca6",
+            "created": "2018-09-09T22:01:28.804Z",
+            "modified": "2018-09-09T22:01:28.804Z",
+            "first_observed": "2018-08-22T23:11:10.692474Z",
+            "last_observed": "2018-08-22T23:11:10.692474Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " hp7.0\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--55778e21-5b2a-45a8-b20a-76175f0309ec",
+            "created": "2018-09-09T22:01:28.804Z",
+            "modified": "2018-09-09T22:01:28.804Z",
+            "first_observed": "2018-08-22T23:11:12.572637Z",
+            "last_observed": "2018-08-22T23:11:12.572637Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--63ad1bca-67e4-4f04-bdcb-6d5f1e3257c0",
+            "created": "2018-09-09T22:01:28.805Z",
+            "modified": "2018-09-09T22:01:28.805Z",
+            "first_observed": "2018-08-22T23:11:44.103937Z",
+            "last_observed": "2018-08-22T23:11:44.103937Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " ^C\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--beb7a6a3-ebf9-4cc6-ba70-1c49fadef2a4",
+            "created": "2018-09-09T22:01:28.805Z",
+            "modified": "2018-09-09T22:01:28.805Z",
+            "first_observed": "2018-08-22T23:11:44.362794Z",
+            "last_observed": "2018-08-22T23:11:44.362794Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " ^C\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--3bd794a8-eb0a-452a-bb9d-de6d0761bcb1",
+            "created": "2018-09-09T22:01:28.806Z",
+            "modified": "2018-09-09T22:01:28.806Z",
+            "first_observed": "2018-08-22T23:11:58.785353Z",
+            "last_observed": "2018-08-22T23:11:58.785353Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge php7.0-curl\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--45b05734-8511-4736-859e-51e44635ed59",
+            "created": "2018-09-09T22:01:28.806Z",
+            "modified": "2018-09-09T22:01:28.806Z",
+            "first_observed": "2018-08-22T23:12:00.694666Z",
+            "last_observed": "2018-08-22T23:12:00.694666Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--ca612357-54c7-420e-9504-1d126687e4fa",
+            "created": "2018-09-09T22:01:28.807Z",
+            "modified": "2018-09-09T22:01:28.807Z",
+            "first_observed": "2018-08-22T23:12:28.285921Z",
+            "last_observed": "2018-08-22T23:12:28.285921Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get purge wazuh-manager\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--e0002a5e-f1a1-47e8-981b-2d56e96bd78f",
+            "created": "2018-09-09T22:01:28.807Z",
+            "modified": "2018-09-09T22:01:28.807Z",
+            "first_observed": "2018-08-22T23:12:30.180243Z",
+            "last_observed": "2018-08-22T23:12:30.180243Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " Y\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--ede55584-d41c-40e1-a173-3d6e1c150455",
+            "created": "2018-09-09T22:01:28.808Z",
+            "modified": "2018-09-09T22:01:28.808Z",
+            "first_observed": "2018-08-22T23:13:08.247924Z",
+            "last_observed": "2018-08-22T23:13:08.247924Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get remove pgp7.0-gd\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--236972a5-81e2-4863-8494-67e67b56d726",
+            "created": "2018-09-09T22:01:28.808Z",
+            "modified": "2018-09-09T22:01:28.808Z",
+            "first_observed": "2018-08-22T23:13:13.707457Z",
+            "last_observed": "2018-08-22T23:13:13.707457Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get remove pgp7.0-mysql\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--88ff645c-e603-4d86-bd0d-ba6963a9f982",
+            "created": "2018-09-09T22:01:28.809Z",
+            "modified": "2018-09-09T22:01:28.809Z",
+            "first_observed": "2018-08-22T23:13:19.481445Z",
+            "last_observed": "2018-08-22T23:13:19.481445Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get remove pgp7.0-xmlrpc\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--5349c91b-668b-4104-8e41-0e0dd22643bd",
+            "created": "2018-09-09T22:01:28.810Z",
+            "modified": "2018-09-09T22:01:28.810Z",
+            "first_observed": "2018-08-22T23:13:23.964336Z",
+            "last_observed": "2018-08-22T23:13:23.964336Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git php-bcmath\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--2ff01ccc-4c50-4d75-9f29-31a491451d86",
+            "created": "2018-09-09T22:01:28.810Z",
+            "modified": "2018-09-09T22:01:28.810Z",
+            "first_observed": "2018-08-22T23:13:27.636437Z",
+            "last_observed": "2018-08-22T23:13:27.636437Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " exit\n"
+                }
+            }
+        },
+        {
+            "type": "observed-data",
+            "id": "observed-data--c1bce55c-ae71-46a7-ac47-e10fb76e75c4",
+            "created": "2018-09-09T22:01:28.811Z",
+            "modified": "2018-09-09T22:01:28.811Z",
+            "first_observed": "2018-08-22T23:13:28.966737Z",
+            "last_observed": "2018-08-22T23:13:28.966737Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "command-executed",
+                    "command": " exit\n"
+                }
+            }
+        }
+    ]
+}
